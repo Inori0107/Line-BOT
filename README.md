@@ -1,4 +1,5 @@
 # Opentix Helper
+## info : (https://www.opentix.life/)
 ## Line-ID : @470vqwho
 ## you can use it to search for recent programs
 ### '無聊' interact with the bot
